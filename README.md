@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ismiseleo
 - 👀 I’m interested in all-things tech
-- 🌱 I’m currently learning database engineering
+- 🌱 I’m currently learning data engineering
 
 <!---
 ismiseleo/ismiseleo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
